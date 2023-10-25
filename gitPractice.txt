@@ -5,5 +5,9 @@
 - r1
 - r1
 - r2
+<<<<<<< HEAD
 - rebase
 - local
+=======
+- conflict
+>>>>>>> 726a2e9009969c7a8f689fd3c974752e1d825d48
