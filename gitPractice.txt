@@ -17,3 +17,5 @@ remote
 - 원격에서 수정
 stash2
 amend1
+amend2
+new
