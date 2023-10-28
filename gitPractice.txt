@@ -15,3 +15,5 @@ remote
 - rebase
 >>>>>>> b8eaa59 (rebase)
 - 원격에서 수정
+stash2
+amend1
