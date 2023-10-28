@@ -19,3 +19,4 @@ stash2
 amend1
 amend2
 new
+1
